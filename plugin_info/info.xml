@@ -2,7 +2,7 @@
 <info>
 	<id>reveil</id>
 	<name>Réveil</name>
-	<description>Utiliser votre domotique pour vous reveiller</description>
+	<description>Utiliser votre domotique pour vous réveiller</description>
 	<icon>fa fa fa-bolt</icon>
 	<licence>AGPL</licence>
 	<author>Halbout Michael</author>
