@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <info>
 	<id>reveil</id>
-	<name>Reveil</name>
+	<name>Réveil</name>
 	<description>Utiliser votre domotique pour vous reveiller</description>
 	<icon>fa fa fa-bolt</icon>
 	<licence>AGPL</licence>
